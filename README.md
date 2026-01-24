@@ -35,6 +35,18 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
+ ##  TABULATION
+ ![WhatsApp Image 2026-01-24 at 1 37 39 PM](https://github.com/user-attachments/assets/2cd2d94c-a2ed-4268-be21-8c5ff03ccb4f)
+ ## GRAPH
+ <img width="1211" height="686" alt="image" src="https://github.com/user-attachments/assets/a1a543db-8fc1-43ff-af93-9df1c53143cf" />
+
+ ## Description
+As the fiber span becomes longer, losses and dispersion spread each transmitted pulse and warp its shape. Over distance, this spreading makes neighboring symbols overlap, which shrinks the eye opening in the eye diagram. The closing eye indicates stronger intersymbol interference and a rising chance of bit errors, ultimately lowering the quality and reliability of the communication system.
+
+## Result
+Thus, the optiperformer software had been installed and a sample file had been run sucessfully.
+
+
 
 ---
 
